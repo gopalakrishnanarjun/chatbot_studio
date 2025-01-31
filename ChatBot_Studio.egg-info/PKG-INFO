@@ -1,0 +1,21 @@
+Metadata-Version: 2.2
+Name: ChatBot_Studio
+Version: 1.0.0
+Summary: A framework to design, train, and deploy AI chatbots.
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+License-File: LICENSE.txt
+Requires-Dist: transformers>=4.0
+Requires-Dist: torch>=1.7
+Requires-Dist: flask>=2.0
+Requires-Dist: python-telegram-bot
+Requires-Dist: slack_sdk
+Requires-Dist: twilio
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

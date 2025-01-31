@@ -1,0 +1,17 @@
+LICENSE.txt
+README.md
+setup.py
+ChatBot_Studio.egg-info/PKG-INFO
+ChatBot_Studio.egg-info/SOURCES.txt
+ChatBot_Studio.egg-info/dependency_links.txt
+ChatBot_Studio.egg-info/requires.txt
+ChatBot_Studio.egg-info/top_level.txt
+core/__init__.py
+core/deployment.py
+core/flow_builder.py
+core/model_integration.py
+core/training.py
+tests/test_deployment.py
+tests/test_flow_builder.py
+tests/test_model_integration.py
+tests/test_training.py

@@ -1,0 +1,6 @@
+transformers>=4.0
+torch>=1.7
+flask>=2.0
+python-telegram-bot
+slack_sdk
+twilio

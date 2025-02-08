@@ -1,4 +1,4 @@
-from ChatBot_Studio.core.model_integration import integrate_model
+from chatbot_studio.core.model_integration import integrate_model
 
 def test_integrate_model():
     model_name = "distilbert-base-uncased"

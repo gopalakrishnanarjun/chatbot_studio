@@ -1,7 +1,7 @@
 
-# ChatBot Studio
+# chatbot_studio
 
-ChatBot Studio is a versatile Python framework designed to simplify the process of designing, training, and deploying AI-powered chatbots. Whether you're a business, an NLP developer, or a chatbot enthusiast, ChatBot Studio provides all the tools you need to create robust conversational agents.
+chatbot_studio is a versatile Python framework designed to simplify the process of designing, training, and deploying AI-powered chatbots. Whether you're a business, an NLP developer, or a chatbot enthusiast, chatbot_studio provides all the tools you need to create robust conversational agents.
 
 ## Key Features
 
@@ -15,10 +15,10 @@ ChatBot Studio is a versatile Python framework designed to simplify the process 
 
 ## Installation
 
-Install ChatBot Studio via pip:
+Install chatbot_studio via pip:
 
 ```bash
-pip install ChatBot_Studio
+pip install chatbot_studio
 ```
 
 ---
@@ -28,7 +28,7 @@ pip install ChatBot_Studio
 ### 1. Creating a Conversational Flow
 
 ```python
-from ChatBot_Studio.core.flow_builder import create_conversational_flow
+from chatbot_studio.core.flow_builder import create_conversational_flow
 
 steps = [
     {"question": "How can I assist you today?", "responses": ["Billing", "Technical Support"]},
@@ -42,7 +42,7 @@ print(flow)
 ### 2. Integrating an NLP Model
 
 ```python
-from ChatBot_Studio.core.model_integration import integrate_model
+from chatbot_studio.core.model_integration import integrate_model
 
 model = integrate_model("distilbert-base-uncased", task="text-classification")
 print(model("I love this product!"))
@@ -51,7 +51,7 @@ print(model("I love this product!"))
 ### 3. Training the Bot
 
 ```python
-from ChatBot_Studio.core.training import train_bot
+from chatbot_studio.core.training import train_bot
 
 trained_model = train_bot("path/to/dataset.json", "mock_model")
 ```
@@ -59,7 +59,7 @@ trained_model = train_bot("path/to/dataset.json", "mock_model")
 ### 4. Deploying the Bot
 
 ```python
-from ChatBot_Studio.core.deployment import deploy_bot
+from chatbot_studio.core.deployment import deploy_bot
 
 status = deploy_bot("Telegram", {"api_key": "your_api_key"}, "my_bot")
 print(status)
@@ -70,7 +70,7 @@ print(status)
 ## Directory Structure
 
 ```plaintext
-ChatBot_Studio/
+chatbot_studio/
 |-- __init__.py
 |-- core/
     |-- __init__.py
@@ -102,7 +102,7 @@ pytest tests/
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests to enhance ChatBot Studio.
+Contributions are welcome! Feel free to submit issues or pull requests to enhance chatbot_studio.
 
 1. Fork the repository
 2. Create your feature branch: `git checkout -b feature-name`
@@ -114,10 +114,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-## Authors
-
-Created by Gopalakrishnan Arjunan.

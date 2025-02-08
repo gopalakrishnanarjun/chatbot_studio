@@ -1,4 +1,4 @@
-from ChatBot_Studio.core.flow_builder import create_conversational_flow
+from chatbot_studio.core.flow_builder import create_conversational_flow
 
 if __name__ == "__main__":
     steps = [

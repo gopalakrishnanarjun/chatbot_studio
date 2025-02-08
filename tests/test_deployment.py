@@ -1,4 +1,4 @@
-from ChatBot_Studio.core.deployment import deploy_bot
+from chatbot_studio.core.deployment import deploy_bot
 
 def test_deploy_bot():
     platform = "Telegram"

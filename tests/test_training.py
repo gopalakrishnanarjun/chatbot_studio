@@ -1,4 +1,4 @@
-from ChatBot_Studio.core.training import train_bot
+from chatbot_studio.core.training import train_bot
 
 def test_train_bot():
     data_path = "mock_data.json"

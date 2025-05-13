@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="chatbot_studio",
-    version="1.0.5",
+    version="1.0.6",
     description="A framework to design, train, and deploy AI chatbots.",
     author="Gopalakrishnan Arjunan",
     author_email='gopalakrishnana02@gmail.com',

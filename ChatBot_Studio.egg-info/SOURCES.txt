@@ -6,6 +6,11 @@ ChatBot_Studio.egg-info/SOURCES.txt
 ChatBot_Studio.egg-info/dependency_links.txt
 ChatBot_Studio.egg-info/requires.txt
 ChatBot_Studio.egg-info/top_level.txt
+chatbot_studio.egg-info/PKG-INFO
+chatbot_studio.egg-info/SOURCES.txt
+chatbot_studio.egg-info/dependency_links.txt
+chatbot_studio.egg-info/requires.txt
+chatbot_studio.egg-info/top_level.txt
 core/__init__.py
 core/deployment.py
 core/flow_builder.py

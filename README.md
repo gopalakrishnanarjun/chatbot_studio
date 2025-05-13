@@ -12,7 +12,8 @@ chatbot_studio is a versatile Python framework designed to simplify the process 
 - **Extensive Documentation:** Clear and concise documentation with examples to help you get started quickly.
 
 ---
-
+if you're looking for the **best machine learning tool for chatbot**, this tool has you covered.
+---
 ## Installation
 
 Install chatbot_studio via pip:

@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: chatbot_studio
-Version: 1.0.2
+Version: 1.0.6
 Summary: A framework to design, train, and deploy AI chatbots.
 Home-page: https://github.com/gopalakrishnanarjun/chatbot_studio
 Author: Gopalakrishnan Arjunan
@@ -31,7 +31,7 @@ Dynamic: summary
 # chatbot_studio
 
 chatbot_studio is a versatile Python framework designed to simplify the process of designing, training, and deploying AI-powered chatbots. Whether you're a business, an NLP developer, or a chatbot enthusiast, chatbot_studio provides all the tools you need to create robust conversational agents.
-
+if you're looking for the **best machine learning tool for chatbot development**, this tool has you covered.
 ## Key Features
 
 - **Prebuilt Conversational Flows:** Quickly build conversational flows with reusable templates for customer support, FAQs, and more.
@@ -147,3 +147,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
+# modelmyfinance
+
+
+
+
+
+**modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
+
+---

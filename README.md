@@ -117,13 +117,3 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-# modelmyfinance
-
-
-
-
-
-**modelmyfinance** is a Python package designed to help users model, simulate, and analyze their financial data effectively. Whether you're a personal finance enthusiast, a small business owner, or a data scientist working with financial data, this package equips you with the tools to make informed decisions and optimize your financial strategies.
-
----
